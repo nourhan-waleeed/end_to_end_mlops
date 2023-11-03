@@ -1,16 +1,14 @@
-pandas 
+pandas
 mlflow
 #==2.2.2
 notebook
 numpy
 scikit-learn
 matplotlib
-python-box
-#==6.0.2
+python-box==6.0.2  # Specify the exact version
 pyYAML
 tqdm
-ensure
-#==1.0.2
+ensure==1.0.2   # Specify the exact version
 joblib
 types-PyYAML
 Flask

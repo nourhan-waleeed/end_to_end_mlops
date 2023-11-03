@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/nourhan-waleeed/data/raw/main/hotel.zip
+  local_data_file: artifacts/data_ingestion/hotel.zip
+  unzip_dir: artifacts/data_ingestion
